@@ -82,7 +82,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,react,nextjs,firebase,express,tailwind,shadcn,figma,css,html,js,md,materialui,mongodb,nodejs,postman,ts,vscode,github,git,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=redux,react,nextjs,firebase,express,tailwind,figma,css,html,md,materialui,mongodb,nodejs,postman,ts,js,vscode,github,git,&perline=14" />
   </a>
 </p>
 
