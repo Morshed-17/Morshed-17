@@ -26,12 +26,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **TypeScript,mongoose, nextJs **
+- 🔭 I’m currently working on **TypeScript, Mongoose, NextJs **
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-
-- 💬 Ask me about **react, nodejs, mongoDB**
+- 💬 Ask me about **React, Nodejs, ExpressJs, MongoDB**
 
 - 📫 Feel free to reach me out **morshedmto3@gmail.com**
 
@@ -83,7 +82,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=redux,react,nextjs,firebase,express,tailwind,figma,css,html,js,md,materialui,mongodb,nodejs,postman,ts,vscode,github,git,&perline=14" />
   </a>
 </p>
 
